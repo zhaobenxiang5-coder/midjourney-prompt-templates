@@ -1,0 +1,7 @@
+node_modules/
+.next/
+out/
+app/node_modules/
+app/.next/
+app/out/
+app/template-mvp/
